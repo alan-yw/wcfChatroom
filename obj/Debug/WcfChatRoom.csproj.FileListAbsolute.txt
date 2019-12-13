@@ -1,0 +1,141 @@
+C:\Users\doomhmmr\Desktop\WcfChatRoom\WcfChatRoom\bin\Debug\WcfChatRoom.exe.config
+C:\Users\doomhmmr\Desktop\WcfChatRoom\WcfChatRoom\bin\Debug\WcfChatRoom.exe
+C:\Users\doomhmmr\Desktop\WcfChatRoom\WcfChatRoom\bin\Debug\WcfChatRoom.pdb
+C:\Users\doomhmmr\Desktop\WcfChatRoom\WcfChatRoom\obj\Debug\WcfChatRoom.csprojResolveAssemblyReference.cache
+C:\Users\doomhmmr\Desktop\WcfChatRoom\WcfChatRoom\obj\Debug\WcfChatRoom.Form1.resources
+C:\Users\doomhmmr\Desktop\WcfChatRoom\WcfChatRoom\obj\Debug\WcfChatRoom.Properties.Resources.resources
+C:\Users\doomhmmr\Desktop\WcfChatRoom\WcfChatRoom\obj\Debug\WcfChatRoom.csproj.GenerateResource.Cache
+C:\Users\doomhmmr\Desktop\WcfChatRoom\WcfChatRoom\obj\Debug\WcfChatRoom.exe
+C:\Users\doomhmmr\Desktop\WcfChatRoom\WcfChatRoom\obj\Debug\WcfChatRoom.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 400\__Shared CSE 400\8 Week 8 - p2p\WcfChatRoom\WcfChatRoom\bin\Debug\WcfChatRoom.exe.config
+D:\Dropbox\Dropbox\Teaching SU\CSE 400\__Shared CSE 400\8 Week 8 - p2p\WcfChatRoom\WcfChatRoom\obj\Debug\WcfChatRoom.exe
+D:\Dropbox\Dropbox\Teaching SU\CSE 400\__Shared CSE 400\8 Week 8 - p2p\WcfChatRoom\WcfChatRoom\obj\Debug\WcfChatRoom.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 400\__Shared CSE 400\8 Week 8 - p2p\WcfChatRoom\WcfChatRoom\bin\Debug\WcfChatRoom.exe
+D:\Dropbox\Dropbox\Teaching SU\CSE 400\__Shared CSE 400\8 Week 8 - p2p\WcfChatRoom\WcfChatRoom\bin\Debug\WcfChatRoom.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 400\__Shared CSE 400\8 Week 8 - p2p\WcfChatRoom\WcfChatRoom\obj\Debug\WcfChatRoom.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\Teaching SU\CSE 400\__Shared CSE 400\8 Week 8 - p2p\WcfChatRoom\WcfChatRoom\obj\Debug\WcfChatRoom.Form1.resources
+D:\Dropbox\Dropbox\Teaching SU\CSE 400\__Shared CSE 400\8 Week 8 - p2p\WcfChatRoom\WcfChatRoom\obj\Debug\WcfChatRoom.Properties.Resources.resources
+D:\Dropbox\Dropbox\Teaching SU\CSE 400\__Shared CSE 400\8 Week 8 - p2p\WcfChatRoom\WcfChatRoom\obj\Debug\WcfChatRoom.csproj.GenerateResource.Cache
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\WcfChatRoom.exe.config
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.exe
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.pdb
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\WcfChatRoom.exe
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\WcfChatRoom.pdb
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.Properties.Resources.resources
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.csproj.GenerateResource.Cache
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\Data.dll
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\Data.pdb
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\ConnectionManagerService.dll
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\System.Web.Http.dll
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\System.Web.Mvc.dll
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\System.Web.Razor.dll
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\System.Web.WebPages.dll
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\ConnectionManagerService.pdb
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\System.Web.Http.xml
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\System.Web.Mvc.xml
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\System.Web.Razor.xml
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\System.Web.WebPages.xml
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.registerForm.resources
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\AuthenticationLib.dll
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\AuthenticationLib.pdb
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\WcfChatRoom.exe.config
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.exe
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.pdb
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\WcfChatRoom.exe
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\WcfChatRoom.pdb
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\AuthenticationLib.dll
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\ConnectionManagerService.dll
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\Data.dll
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.Http.dll
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.Mvc.dll
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.Http.WebHost.dll
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\Newtonsoft.Json.dll
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.Razor.dll
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.WebPages.Razor.dll
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.WebPages.dll
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\Microsoft.Web.Infrastructure.dll
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.WebPages.Deployment.dll
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\AuthenticationLib.pdb
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\ConnectionManagerService.pdb
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\Data.pdb
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Net.Http.Formatting.xml
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.Http.xml
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.Mvc.xml
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.Http.WebHost.xml
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\Newtonsoft.Json.xml
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.Razor.xml
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.WebPages.Razor.xml
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.WebPages.xml
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.WebPages.Deployment.xml
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.csprojResolveAssemblyReference.cache
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.Properties.Resources.resources
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.registerForm.resources
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.csproj.GenerateResource.Cache
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.Chatroom.resources
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\NAudioStreaming.dll
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\NSpeex.dll
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\NAudioStreaming.pdb
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\NAudio.pdb
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\bin\Debug\NAudio.xml
+\\stu03-fsrv.ad.syr.edu\wyang19$\Desktop\final project\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.video_chat_room.resources
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\WcfChatRoom.exe.config
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.exe
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.pdb
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\WcfChatRoom.exe
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\WcfChatRoom.pdb
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\AuthenticationLib.dll
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\ConnectionManagerService.dll
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\Data.dll
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\NAudioStreaming.dll
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.Http.dll
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.Mvc.dll
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.Http.WebHost.dll
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\NSpeex.dll
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.Razor.dll
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.WebPages.Razor.dll
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.WebPages.dll
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\AuthenticationLib.pdb
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\ConnectionManagerService.pdb
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\Data.pdb
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\NAudioStreaming.pdb
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\NAudio.pdb
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\NAudio.xml
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Net.Http.Formatting.xml
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.Http.xml
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.Mvc.xml
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.Http.WebHost.xml
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.Razor.xml
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.WebPages.Razor.xml
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.WebPages.xml
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\bin\Debug\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.Chatroom.resources
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.Properties.Resources.resources
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.registerForm.resources
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.video_chat_room.resources
+\\Mac\Home\Desktop\final project\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.csproj.GenerateResource.Cache
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\NAudioStreaming.dll
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\NSpeex.dll
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\ConnectionManagerService.dll.config
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\NAudioStreaming.pdb
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\NAudio.pdb
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\bin\Debug\NAudio.xml
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.Chatroom.resources
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.video_chat_room.resources
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\wcf\WcfChatRoom\obj\Debug\WcfChatRoom.csproj.CopyComplete

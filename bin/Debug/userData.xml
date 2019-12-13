@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUserData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UserData>
+    <UserName>hello</UserName>
+    <HashedPassword>K7DhVB0+z/63mtF8BJGsqLYNOzCCz2wzXZW2f1jFm6d5LENHfmJqYj73orCo0FE14JBS6Xc3cNhu4nsKb9X7IQ==</HashedPassword>
+  </UserData>
+  <UserData>
+    <UserName>sb</UserName>
+    <HashedPassword>gREbYWpzfXYatvbFTzejHYNrblJzFh3HhBTb52z3CC6uvvksmEcg5IKCX7qxAKwfckHPS0k4+Q4cb8UfKH0IUg==</HashedPassword>
+  </UserData>
+  <UserData>
+    <UserName>1</UserName>
+    <HashedPassword>3nmBnXl/KNmKvq3nbMpsukm78lDVTo0dcIIADP9pFyd+Akr2Vw9yWI/FUpKEk/kJQKJYjJY7se7ByazrUprgpA==</HashedPassword>
+  </UserData>
+  <UserData>
+    <UserName>2</UserName>
+    <HashedPassword>E1RrbvrAsKO7SsRrGQ4zrQL1n2cohe6jJU90hPSAfeeLNFWHO8nenlO3jMS8fNPeqce4cBA5rW0cbjSu4+GlFw==</HashedPassword>
+  </UserData>
+  <UserData>
+    <UserName>admin</UserName>
+    <HashedPassword>kceMDxNDBddY5mAsCMELKIliJCZber3eWMGAoB3acVbNsk2feIX2aWkknIDJcO91VU6XY193DpDv1IyZRYZh7A==</HashedPassword>
+  </UserData>
+  <UserData>
+    <UserName>temp</UserName>
+    <HashedPassword>lftoNKvGfPfrWeEOZvEFoxYfCp+YGfP9vGktnh0Kn9/HZ5VgZ05cpdtj7ktnkbON1Loq6Hv8kWLAlWadSE6XmQ==</HashedPassword>
+  </UserData>
+  <UserData>
+    <UserName>temp2</UserName>
+    <HashedPassword>HQzMuPxPs2zWxHul29UiAizKwpy1CrqU6z/pgR6wPojum5kytm8rVwwlkN189wSwWJwsmu3FUSOwWGkNC2sdDA==</HashedPassword>
+  </UserData>
+  <UserData>
+    <UserName>temp3</UserName>
+    <HashedPassword>mZaSuZN9J9VFKRXmF3BVwKORgSsi5TrS3qvVmh9l3cOMYFxA/ZSEE6WHahrrBZqrzqreeDx+2z/XnT/cvYEfHQ==</HashedPassword>
+  </UserData>
+</ArrayOfUserData>
