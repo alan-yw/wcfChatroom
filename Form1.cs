@@ -220,7 +220,7 @@ namespace WcfChatRoom
 
         private void Send()
         {
-            // THIS SHOULD BE HANDLED BETTER.. FOR NOW THOUGH, WE WILL USE THE URL
+            
             string userName = this.username;
 
             // send to all connected clients, except to myself..
@@ -341,7 +341,7 @@ namespace WcfChatRoom
 
         private void FigureOutConnectedClients()
         {
-            // this should be obtained from the server, perphaps? For now, hardcoding it..
+            
             try
             {
 
