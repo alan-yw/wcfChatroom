@@ -1,20 +1,5 @@
-﻿/*
+//This creates a chatroom, that allows for multiple (unlimmited) number of clients communicating with each other.
 
-This creates a chatroom, that allows for multiple (unlimmited) number of clients communicating with each other.
-
-It's intentionally not completed.. The following functionality needs to be added:
-
-1. Add a Text box to the UI & change the code to allow the user to specify a user name
-   - chaange the sending code to use this userName
-
-2. Integrate w/ connection manager REST service:
-   - it would be a good design to specify the URL for the REST service via UI
-   - on connect, register
-   - on disconnect, exit
-   - retrieve a list of all connected clients (at the minimum on connect, then possibly on send? or on a timer?)
-     - instead of it being hardcoded...
-
-*/
 
 namespace WcfChatRoom
 {
