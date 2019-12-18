@@ -40,10 +40,7 @@ namespace WcfChatRoom
         private UdpClient udpListener { get; set; }
         private INetworkChatCodec codec { get; set; }
 
-        // volatile in this case is the right thing to use because:
-        //   - multiple threads are accessing it
-        //   - why not lock instead?
-        //       - because only 1 thread can modify it.. so the 2nd thread is only reading it
+        // lock
         private volatile bool connected;
 
 
@@ -67,7 +64,7 @@ namespace WcfChatRoom
         string audioinputname = "";
         string audiooutputname = "";
 
-        //videoroom = new video_chat_room(myListeningUrl, videoport, auport, vclient_name, vclient_ipaddress, client_videoport, client_auport, camname, audioinputname, audiooutputname);
+       
         public video_chat_room(string myListening, string videop, string aup, string vclient_n, string vclient_ipadd,string client_videop, string client_aup, string camn, string audioinputn, string audiooutputn)
         {
             try
@@ -167,11 +164,9 @@ namespace WcfChatRoom
                     IPEndPoint endPoint = new IPEndPoint(IPAddress.Parse(this.myListeningUrl), int.Parse(this.auport));
                
 
-                    // THIS SHOULD NOT BE HARDCODED....
+                  
                     this.selectedCodec = new AcmMuLawChatCodec();
-                    // Instead, we should be using the user selection...
-                    //this.selectedCodec = ((CodecComboItem)cmbCodecs.SelectedItem).Codec;
-
+                   
                     this.ServerConnect(endPoint, int.Parse(audioinputn), selectedCodec);
                    
                 }
@@ -221,7 +216,7 @@ namespace WcfChatRoom
                 this.udpSender.Close();
                 this.waveIn.Dispose();
 
-                // NAudio designed the codecs to support multiple calls to Dispose, recreating their resources if Encode/Decode called again
+                
                 this.selectedCodec.Dispose();
             }
         }
@@ -290,7 +285,7 @@ namespace WcfChatRoom
                 {
                     IPEndPoint endPoint = new IPEndPoint(IPAddress.Parse(vclient_ipaddress), int.Parse(client_auport));
 
-                    // THIS SHOULD NOT BE HARDCODED....
+                   
                     this.codec = new AcmMuLawChatCodec();
 
                     this.ClientConnect(endPoint, codec);
@@ -381,7 +376,6 @@ namespace WcfChatRoom
                 groupBox1.Controls.Clear();
 
                 webCamera.Stop();
-                //webCamera.Dispose();
                 if (mjpegConnection == null) { return; }
                 vvideoViewer.Stop();
 
